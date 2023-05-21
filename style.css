@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+} 
+    h1{
+        color: blue;
+        text-align: center;
+    }   
+    footer p{
+        border: 10px solid blue;
+    }
+    nav{
+    }
+    main a{
+        color: blue;
+        border: 1px solid blue;
+        text-decoration: none;
+        border-radius: 10px;
+        padding: 10px;
+    }
+    .important{
+        border: 10px solid green;
+        text-decoration: none;
+        background-color: greenyellow;
+    }
+    .delivery{
+        margin: 50px;
+        margin-right: 300ghcdfshfcretdyfetdytgfdfstgffdpx;
+    }
